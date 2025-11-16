@@ -1,4 +1,3 @@
-## Hi there 👋
 Soy un desarrollador junior Fullstack con una auténtica pasión por aprender y tener un impacto positivo en el mundo del desarrollo de software. Me gusta el proceso creativo y disfruto aportando mis habilidades en cada etapa de un proyecto. Donde destaco especialmente con JavaScript y frameworks populares como React.js y Node.js. Estoy comprometido a estar al día con las tendencias del sector, siempre dispuesto a innovar y ofrecer soluciones eficaces.<h1 align="center">Hola👋 soy Miguel Pliego</h1>
 <h3 align="center">soy un frontend apasionado</h3>
 
@@ -24,5 +23,13 @@ Soy un desarrollador junior Fullstack con una auténtica pasión por aprender y 
 # Mickeyram.pro
 <!--
 **miguelramirez9988-pixel/miguelramirez9988-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+And some more...
+
+---
+
+## 📊 My stats
+<img align="center" width="600" alt="Data" src="general.svg">
 
 
